@@ -306,11 +306,11 @@ section {
     background: var(--main-color);
 }
 .php {
-    width: 50%;
+    width: 40%;
     background: var(--main-color);
 }
 .mysql {
-    width: 80%;
+    width: 60%;
     background: var(--main-color);
 }
 .figma {
